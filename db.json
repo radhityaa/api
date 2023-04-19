@@ -121,27 +121,17 @@
     {
       "id": 1,
       "slug": "slider1",
-      "image": "../../../assets/images/carousel/1.png"
+      "image": "https://dprd.bekasikota.go.id/public/files/uploads/banner-dprd.jpeg"
     },
     {
       "id": 2,
       "slug": "slider2",
-      "image": "../../../assets/images/carousel/2.jpg"
+      "image": "https://dprd.bekasikota.go.id/public/images/foto/headerdprd_new.jpeg"
     },
     {
       "id": 3,
       "slug": "slider3",
-      "image": "../../../assets/images/carousel/3.jpg"
-    },
-    {
-      "id": 4,
-      "slug": "slider4",
-      "image": "../../../assets/images/carousel/4.jpg"
-    },
-    {
-      "id": 5,
-      "slug": "slider5",
-      "image": "../../../assets/images/carousel/5.jpg"
+      "image": "https://dprd.bekasikota.go.id/public/files/uploads/sejarah-kota-bekasi.jpeg"
     }
   ],
   "pengumuman": [
