@@ -1,22 +1,530 @@
 {
-  "feedback": [
+  "agenda_pemerintah": [
     {
       "id": 1,
-      "rating": 10,
-      "user_name": "Tony Stark",
-      "text": "You are the ironman of this world"
+      "title": "Penyuluhan Tentang Penyakit Kanker dan Tumor oleh Yayasan Pemerhati Kanker Indonesia",
+      "slug": "slug-agenda-pemerintah-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Senin, 28 Januari 2023"
     },
     {
       "id": 2,
-      "rating": 9,
-      "user_name": "Bruce Wayne",
-      "text": "You are the batman of this world"
+      "title": "IGORA (Ikatan Guru Olahraga)/Undangan Pelantikan Pengurus Periode 2023-2027 Seminar dan Raker",
+      "slug": "slug-agenda-pemerintah-2",
+      "description": "IGORA (Ikatan Guru Olahraga)/Undangan Pelantikan Pengurus Periode 2023-2027 Seminar dan Raker",
+      "date": "Selasa, 29 Januari 2023"
     },
     {
       "id": 3,
-      "rating": 8,
-      "user_name": "Peter Parker",
-      "text": "You are the spiderman of this world"
+      "title": "Kegiatan Pelatihan Kecerdasan Finansial Bagi ASN",
+      "slug": "slug-agenda-pemerintah-3",
+      "description": "Kegiatan Pelatihan Kecerdasan Finansial Bagi ASN",
+      "date": "Rabu, 30 Januari 2023"
+    },
+    {
+      "id": 4,
+      "title": "Kepada Seluruh Sekolah SD dan SMP di Kota Bekasi",
+      "slug": "slug-agenda-pemerintah-4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Kamis, 31 Januari 2023"
+    },
+    {
+      "id": 5,
+      "title": "Rilis Aplikasi Website DPRD Kab. BEKASI!",
+      "slug": "slug-agenda-pemerintah-5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Jumat, 01 Februari 2023"
+    }
+  ],
+  "agenda_masyarakat": [
+    {
+      "id": 1,
+      "title": "Jumat Bersih",
+      "slug": "slug-agenda-masyarakat-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Jumat, 01 Februari 2023"
+    },
+    {
+      "id": 2,
+      "title": "Gemerlap Tamrin",
+      "slug": "slug-agenda-masyarakat-2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Senin, 05 Februari 2023"
+    },
+    {
+      "id": 3,
+      "title": "Gemerlap Tamrin 2",
+      "slug": "slug-agenda-masyarakat-3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Selasa, 06 Februari 2023"
+    },
+    {
+      "id": 4,
+      "title": "Gemerlap Tamrin 3",
+      "slug": "slug-agenda-masyarakat-4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Rabu, 07 Februari 2023"
+    },
+    {
+      "id": 5,
+      "title": "Gemerlap Tamrin 4",
+      "slug": "slug-agenda-masyarakat-5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Kamis, 08 Februari 2023"
+    }
+  ],
+  "gagasan": [
+    {
+      "id": 1,
+      "image": "https://mdbcdn.b-cdn.net/img/new/avatars/2.webp",
+      "name": "Rama Adhitya Setiadi",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo beatae tempora corporis, non doloremque id impedit eaque, reprehenderit voluptatem alias magni natus molestiae architecto expedita deserunt nostrum culpa, delectus amet aliquid velit debitis. Nulla facilis odit voluptate quam recusandae explicabo, quod quisquam modi? Cum similique expedita quis libero ducimus alias!",
+      "date": "Senin, 13 Maret 2023"
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHY-qr_BcQu96DbQ-hfH_vhV3YQUdeXgvCD0QtmND-BfTt-6tzyJLNcWMZy1PB8TIiVko&usqp=CAU",
+      "name": "Riwanto",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Senin, 13 Maret 2023"
+    },
+    {
+      "id": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19EaFNNE8RqQ8HeB4ld93gq_4z8EoXkbOUT4YUcqZqHZaixy803NACsEQnPU4d_6O8HA&usqp=CAU",
+      "name": "Asep Sopyan",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis ex rerum ipsa repudiandae laudantium repellat nisi? Perferendis aperiam quidem repudiandae tempore dolor culpa minima quod rem, adipisci suscipit placeat, ab, doloribus incidunt officiis earum. Suscipit nihil magnam dolores qui unde neque eius adipisci ducimus, voluptatum ullam? Ipsa saepe porro quam laboriosam minus incidunt laborum, aperiam quidem natus maxime necessitatibus! Maiores impedit vero itaque, aut suscipit laboriosam neque placeat culpa quaerat.",
+      "date": "Senin, 13 Maret 2023"
+    },
+    {
+      "id": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNiPMBOxZSjkdg-3Wp3czpSMKYrbpaDGd-_2_OOz_OHAHhJV6BdH0oNCbvuBAFn3aqGAg&usqp=CAU",
+      "name": "Reza",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Senin, 13 Maret 2023"
+    },
+    {
+      "id": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpaahvNXN3SAbwkTN8fPKEqQtHvQMnTKGBefCWdJU-uRy9EuAfho8caWMBISiDCDxcOh4&usqp=CAU",
+      "name": "Wido",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo beatae tempora corporis, non doloremque id impedit eaque, reprehenderit voluptatem alias magni natus molestiae architecto expedita deserunt nostrum culpa, delectus amet aliquid velit debitis. Nulla facilis odit voluptate quam recusandae explicabo, quod quisquam modi? Cum similique expedita quis libero ducimus alias!",
+      "date": "Senin, 13 Maret 2023"
+    },
+    {
+      "id": 6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd6BfvjjqY8P8wydK5ywBfIZZPMQhT79f7B3PivtB7Cld1wwi2wG7FWeeYnSAnlIZqJQE&usqp=CAU",
+      "name": "Farid",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo beatae tempora corporis, non doloremque id impedit eaque, reprehenderit voluptatem alias magni natus molestiae architecto expedita deserunt nostrum culpa, delectus amet aliquid velit debitis. Nulla facilis odit voluptate quam recusandae explicabo, quod quisquam modi? Cum similique expedita quis libero ducimus alias!",
+      "date": "Senin, 13 Maret 2023"
+    }
+  ],
+  "carousel": [
+    {
+      "id": 1,
+      "slug": "slider1",
+      "image": "../../../assets/images/carousel/1.png"
+    },
+    {
+      "id": 2,
+      "slug": "slider2",
+      "image": "../../../assets/images/carousel/2.jpg"
+    },
+    {
+      "id": 3,
+      "slug": "slider3",
+      "image": "../../../assets/images/carousel/3.jpg"
+    },
+    {
+      "id": 4,
+      "slug": "slider4",
+      "image": "../../../assets/images/carousel/4.jpg"
+    },
+    {
+      "id": 5,
+      "slug": "slider5",
+      "image": "../../../assets/images/carousel/5.jpg"
+    }
+  ],
+  "pengumuman": [
+    {
+      "id": 1,
+      "title": "Pengumuman Pemenang Lomba & Validasi E Sertifikat",
+      "slug": "slug-pengumuman-1",
+      "image": "image1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Jumat, 01 Februari 2023"
+    },
+    {
+      "id": 2,
+      "title": "Lomba Podcast & Monolog Parlemen Mengabdi DPRD Provinsi Jawa Barat",
+      "slug": "slug-pengumuman-2",
+      "image": "image2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Selasa, 29 Januari 2023"
+    },
+    {
+      "id": 3,
+      "title": "PENGUMUMAN CALON ANGGOTA KOMISI PENYIARAN INDONESIA DAERAH",
+      "slug": "slug-pengumuman-3",
+      "image": "image3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Senin, 28 Januari 2023"
+    },
+    {
+      "id": 4,
+      "title": "PENGUMUMAN PELAKSANAAN TEST KOMPETENSI CALON ANGGOTA KOMISI PENYIARAN INDONESIA DAERAH PROVINSI JAWA BARAT PERIODE 2020 - 2023",
+      "slug": "slug-pengumuman-4",
+      "image": "image4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Senin, 05 Februari 2023"
+    },
+    {
+      "id": 5,
+      "title": "Daftar Pemegang E Serifikat Webinar DPRD Jabar",
+      "slug": "slug-pengumuman-5",
+      "image": "image5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Jumat, 01 Februari 2023"
+    }
+  ],
+  "transparansi-kinerja": [
+    {
+      "id": 1,
+      "title": "Perjanjian Kinerja Sekretaris DPRD",
+      "file": "PDF",
+      "date": "Rabu, 07 Februari 2023"
+    },
+    {
+      "id": 2,
+      "title": "Indikator Kinerja Utama Sekretariat DPRD",
+      "file": "PDF",
+      "date": "Rabu, 07 Februari 2023"
+    },
+    {
+      "id": 3,
+      "title": "PEDOMAN PENGELOLAAN ORGANISASI",
+      "file": "PDF",
+      "date": "Rabu, 07 Februari 2023"
+    }
+  ],
+  "daftar-anggota": [
+    {
+      "id": 1,
+      "slug": "anggota1",
+      "image": "https://dprd.jabarprov.go.id/img/person/2021/abdul-jabar-majid.png",
+      "name": "Dr. H. Abdul Jabar Majid, M.A.",
+      "jabatan": "Anggota",
+      "alternatif": [
+        "Wakil Ketua Badan Anggaran",
+        "Wakil Ketua Badan Musyawarah",
+        "Wakil Ketua DPRD I"
+      ],
+      "tempat_tanggal_lahir": "Langgam, 29 Desember 1952 (70 tahun)",
+      "agama": "Islam",
+      "pendidikan_terakhir": "Doktor",
+      "priode": "2019-2024",
+      "alamat": "Jl Mandala II No.24 Kelurahan MANDALAMEKAR Kecamatan CIMENYAN Kabupaten Bandung"
+    },
+    {
+      "id": 2,
+      "slug": "anggota2",
+      "image": "https://dprd.jabarprov.go.id/img/person/2021/almaida-rosa-putra.png",
+      "name": "H. Almaida Rosa Putra, SE., M.M",
+      "jabatan": "Anggota",
+      "alternatif": [
+        "Wakil Ketua DPRD I",
+        "Wakil Ketua Badan Musyawarah",
+        "Wakil Ketua Badan Anggaran"
+      ],
+      "tempat_tanggal_lahir": "Jakarta, 20 Mei 1984 (38 tahun)",
+      "agama": "Islam",
+      "pendidikan_terakhir": "Magister",
+      "priode": "2019-2024",
+      "alamat": "Jl. Raya Pebayuran No. 18 RT 01/01 Kel. Karanghaur Kec. Pebayuran Kab. Bekasi"
+    },
+    {
+      "id": 3,
+      "slug": "anggota3",
+      "image": "https://dprd.jabarprov.go.id/img/person/2021/faizal-hafan-farid.png",
+      "name": "H. Faizal Hafan Farid, S.E., M.Si",
+      "jabatan": "Anggota",
+      "alternatif": [
+        "Wakil Ketua DPRD I",
+        "Wakil Ketua Badan Musyawarah",
+        "Wakil Ketua Badan Anggaran"
+      ],
+      "tempat_tanggal_lahir": "Garut, 26 Desember 1966 (56 tahun)",
+      "agama": "Islam",
+      "pendidikan_terakhir": "Magister",
+      "priode": "2019-2024",
+      "alamat": "Jl. Kancil I Blok B No.116 Kelurahan Cikarang Baru Kecamatan SERTAJAYA CIKARANG TIMUR Kabupaten Bekasi"
+    },
+    {
+      "id": 4,
+      "slug": "anggota4",
+      "image": "https://dprd.jabarprov.go.id/img/person/2021/jejen-sayuti.png",
+      "name": "H. Jejen Sayuti, SE",
+      "jabatan": "Anggota",
+      "alternatif": [
+        "Wakil Ketua DPRD I",
+        "Wakil Ketua Badan Musyawarah",
+        "Wakil Ketua Badan Anggaran"
+      ],
+      "tempat_tanggal_lahir": "Bekasi, 4 Juli 1970 (52 tahun)",
+      "agama": "Islam",
+      "pendidikan_terakhir": "Sarjana",
+      "priode": "2019-2024",
+      "alamat": "Kp. Nagrak, RT03/02, Kel. Sukadamai, Kec. Cikarang Selatan, Kabupaten Bekasi"
+    },
+    {
+      "id": 5,
+      "slug": "anggota5",
+      "image": "https://dprd.jabarprov.go.id/img/person/2021/achdar-sudrajat.png",
+      "name": "H. M. Achdar Sudrajat, S.Sos",
+      "jabatan": "Anggota",
+      "alternatif": [
+        "Wakil Ketua DPRD I",
+        "Wakil Ketua Badan Musyawarah",
+        "Wakil Ketua Badan Anggaran"
+      ],
+      "tempat_tanggal_lahir": "Bekasi, 16 Juni 1950 (72 tahun)",
+      "agama": "Islam",
+      "pendidikan_terakhir": "Sarjana",
+      "priode": "2019-2024",
+      "alamat": "Jl. Diponegoro No.27, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115"
+    },
+    {
+      "id": 6,
+      "slug": "anggota6",
+      "image": "https://dprd.jabarprov.go.id/img/person/2021/syahrir.png",
+      "name": "H. Syahrir, SE., M.Ipol",
+      "jabatan": "Anggota",
+      "alternatif": [
+        "Wakil Ketua DPRD I",
+        "Wakil Ketua Badan Musyawarah",
+        "Wakil Ketua Badan Anggaran"
+      ],
+      "tempat_tanggal_lahir": "Medan, 1 September 1972 (50 tahun)",
+      "agama": "Islam",
+      "pendidikan_terakhir": "Sarjana",
+      "priode": "2019-2024",
+      "alamat": "Puri Gading Blok E-1/20 Kel. Jati Melati Kec. Pondok Melati, Kota Bekasi"
+    },
+    {
+      "id": 7,
+      "slug": "anggota7",
+      "image": "https://dprd.jabarprov.go.id/img/person/2021/irpan-haeroni.png",
+      "name": "Irpan Haeroni",
+      "jabatan": "Anggota",
+      "alternatif": [
+        "Wakil Ketua DPRD I",
+        "Wakil Ketua Badan Musyawarah",
+        "Wakil Ketua Badan Anggaran"
+      ],
+      "tempat_tanggal_lahir": "Bekasi, 15 September 1972 (50 tahun)",
+      "agama": "Islam",
+      "pendidikan_terakhir": "SMA",
+      "priode": "2019-2024",
+      "alamat": "Kp. Srengseng Kel. Sukadarma Kec Sukatani Kabupaten Bekasi"
+    }
+  ],
+  "photo-gallery": [
+    {
+      "id": 1,
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/bimbingan-mental-ramadhan-1444-h.jpg",
+      "title": "Sambut Ramadhan 1444 H Setwan Jabar Gelar Bimbingan Mental Bagi ASN dan Non ASN",
+      "slug": "photo1",
+      "description": "Kota Bandung -- Sekretariat DPRD Provinsi Jawa Barat gelar kegiatan pembinaan mental untuk staf ASN dan Non ASN di Lingkungan Sekretariat DPRD Provinsi Jawa Barat dalam rangka menyambut bulan suci ramadhan 1444 H bertempat  di Lobby Ruang Rapat Sidang Paripurna Gedung DPRD Provinsi Jawa Barat. Selasa, (21/03/23)",
+      "date": "Selasa, 21 Maret 2023"
+    },
+    {
+      "id": 2,
+      "image": "https://dprd.jabarprov.go.id/img/2022/1500/oleh-soleh.jpg",
+      "title": "Hadiri Kegiatan 'Pembekalan Generasi Muda Membangun Kerukunan Masyarakat Menuju Jawa Barat Harmoni'",
+      "slug": "photo2",
+      "description": "Kabupaten Garut -- Wakil Ketua DPRD Provinsi Jawa Barat H. Oleh Sholeh, SH dan Anggota DPRD Provinsi Jawa Barat H. Dadan Hidayatullah, SH. M.Ipol, Hj. Yuningsih, MM menghadiri Kegiatan 'Pembekalan Generasi Muda Membangun Kerukunan Masyarakat Menuju Jawa Barat Harmoni' bertempat di Ballroom Hotel Harmoni Kabupaten Garut. Selasa, (29/11/22). (Foto : Puja / Humas DPRD Jabar)",
+      "date": "Selasa, 21 Maret 2023"
+    },
+    {
+      "id": 3,
+      "image": "https://dprd.jabarprov.go.id/img/2022/1500/ineu-purwadewi-sundari-program-rutilahu-subang.jpg",
+      "title": "Wakil Ketua DPRD Prov. Jabar Dr. Hj. Ineu Purwadewi Sundari S.Sos., MM Meninjau Lokasi Program Rutilahu di Desa Sanca Kecamatan Ciater, Kabupaten Subang.",
+      "slug": "photo3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, doloremque. Aliquam, et! Architecto quaerat ex placeat, excepturi molestias eum debitis harum natus voluptates aut iste, dolorum veniam, reprehenderit repudiandae adipisci optio omnis unde amet mollitia vitae itaque. Ullam quo facilis quod. Iusto, dolore reiciendis at autem, deleniti ut voluptates laborum excepturi, facere velit aperiam quod!",
+      "date": "Selasa, 29 November 2022"
+    },
+    {
+      "id": 4,
+      "image": "https://dprd.jabarprov.go.id/img/2022/1500/pansus-rpplh-2.jpg",
+      "title": "Raperda RPPLH Miliki Peranan Penting Sebagai Acuan Daerah",
+      "slug": "photo4",
+      "description": "Kabupaten Sumedang— Pimpinan dan Anggota Pansus VI tentang Raperda Rencana Perlindungan Dan Pengelolaan Lingkungan Hidup (RPPLH) di Provinsi Jawa Barat, melakukan kunjungan ke Dinas Lingkungan Hidup dan Kehutanan Kabupaten Sumedang Rabu (16/11/2022). Wakil Ketua Pansus VI, Deden Galih mengatakan, Raperda RPPLH ini bertujuan untuk mengakomodir kebutuhan Kabupaten/Kota di Jawa Barat terkait RPPLH, mengingat banyak Proyek Strategis Nasional di Sumedang salah satu contohnya Waduk Jatigede, Tol Cisumdawu, oleh karena itu RPPLH Provinsi Jawa Barat sangat diperlukan mengingat akan menjadi acuan bagi Kabupaten/Kota di Provinsi Jawa Barat. Sementara itu Ketua Pansus VI, Herry Dermawan mengatakan, Kabupaten Sumedang merupakan daerah yang istimewa karena diapit oleh banyak Kabupaten contohnya diapit oleh Kabupaten Bandung, Subang, Tasikmalaya, Majalengka, Herry Dermawan juga mengatakan Perda RPPLH bukanlah perda eksekusi karena didalam Perda tersebut pasti banyak terdapat masukan dari Kabupaten/Kota yang bisa diterapkan pada isi Perda RPPLH ini, dengan kata lain Perda RPPLH ini setara pelaksanaannya dengan RPJMD Provinsi.",
+      "date": "Rabu, 16 November 2022"
+    },
+    {
+      "id": 5,
+      "image": "https://dprd.jabarprov.go.id/img/2022/1500/komisi-v-tinjau-porprov-cabor-anggar.jpg",
+      "title": "Tinjau Pelaksanaan Porprov Cabor Anggar dan Bola Voli",
+      "slug": "photo5",
+      "description": "Komisi V DPRD Provinsi Jawa Barat meninjau venue pertandingan cabang olahraga anggar dan bola voli pada Pekan Olahraga Provinsi (PORPROV) XIV Jawa Barat bertempat di Gedung Serbaguna Koni Kabupaten Subang, Selasa (15/11/2022)",
+      "date": "Rabu, 16 November 2022"
+    },
+    {
+      "id": 6,
+      "image": "https://dprd.jabarprov.go.id/img/2022/1500/prasetyawati-tinjau-infrastruktur-listrik.jpg",
+      "title": "Apresiasi Program Instalasi Listrik Gratis Bagi Masyarakat Daerah Terpencil ",
+      "slug": "photo6",
+      "description": "Kabupaten Bandung Barat-- Anggota Komisi IV DPRD Provinsi Jawa Barat Prasetywati meninjau Pembangunan Sarana Penyediaan Tenaga Listrik Daerah Terpencil dan Pedesaan yang bertempat di Desa Mekarjaya Kabupaten Bandung Barat, Selasa,(15/11/2022). Prasetyawati mengapresiasi, upaya Pemerintah Pusat dan badan usaha yang telah membantu masyarakat untuk mendapatkan bantuan sambungan listrik. 'Terima kasih kami ucapkan kepada semua pihak yang telah berpartisipasi dalam program ini, kami komisi empat akan terus berjuang serta membantu program seperti ini sehingga semakin banyak masyarakat yang kurang mampu terutama di daerah terpencil bisa menikmati listrik.' ujar Prasetyawati. Lebih lanjut Prasetyawati menjelaskan, bahwa program bantuan instalasi listrik gratis merupakan bagian dari kegiatan, Corporate Social Responsibility (CSR) dari salah satu perusahaan sektor Energi dan Sumber Daya Mineral (ESDM) yang untuk berpartisipasi dalam program Bantuan Pasang Listrik Baru (BPBL) yang di inisiasi oleh Kementerian ESDM bagi masyarakat kurang mampu yang belum teraliri listrik. Humas DPRD Jabar Sekretaris DPRD Provinsi Jawa Barat Dr. Hj. Ida Wahida Hidayati, SE. M.Si",
+      "date": "Selasa, 15 November 2022"
+    }
+  ],
+  "video-gallery": [
+    {
+      "id": 1,
+      "slug": "video1",
+      "title": "DPRD JABAR DUKUNG UPAYA PERCEPATAN MIGRASI KENDARAAN BERMOTOR LISTRIK",
+      "image": "https://i.ytimg.com/vi/nbA39vZMyNM/maxresdefault.jpg",
+      "unique_video": "nbA39vZMyNM",
+      "date": "Rabu, 15 Maret 2023"
+    },
+    {
+      "id": 2,
+      "slug": "video2",
+      "title": "THORIQOH AJAK MASYARAKAT TERAPKAN EMPAT PILAR KEBANGSAAN JELANG PESTA DEMOKRASI TAHUN 2024",
+      "image": "https://i.ytimg.com/vi/x9RpBCJu0vs/maxresdefault.jpg",
+      "unique_video": "x9RpBCJu0vs",
+      "date": "Rabu, 15 Maret 2023"
+    },
+    {
+      "id": 3,
+      "slug": "video3",
+      "title": "PERLU METODE MENINGKATKAN KEPESERTAAN JAMINAN SOSIAL KETENAGAKERJAAN PARA PENGEMUDI OJEK ONLINE",
+      "image": "https://i.ytimg.com/vi/6AUg5R7DVuU/maxresdefault.jpg",
+      "unique_video": "6AUg5R7DVuU",
+      "date": "Rabu, 15 Maret 2023"
+    },
+    {
+      "id": 4,
+      "slug": "video4",
+      "title": "SARI SUNDARI AJAK MASYARAKAT JALIN PERSATUAN DARI LINGKUNGAN TERDEKAT",
+      "image": "https://i.ytimg.com/vi/z2z2Edjw8J0/maxresdefault.jpg",
+      "unique_video": "z2z2Edjw8J0",
+      "date": "Rabu, 15 Maret 2023"
+    },
+    {
+      "id": 5,
+      "slug": "video5",
+      "title": "KOMISI IV : PEMBANGUNAN EMBUNG KIARAPAYUNG HARUS DISELESAIKAN UNTUK KEPENTINGAN MASYARAKAT",
+      "image": "https://i.ytimg.com/vi/1bue2Ew59dg/maxresdefault.jpg",
+      "unique_video": "1bue2Ew59dg",
+      "date": "Rabu, 15 Maret 2023"
+    },
+    {
+      "id": 6,
+      "slug": "video6",
+      "title": "ANGGARAN RUTILAHU DI KAB BANDUNG DIRASA KURANG",
+      "image": "https://i.ytimg.com/vi/5TWur4dHglo/maxresdefault.jpg",
+      "unique_video": "5TWur4dHglo",
+      "date": "Selasa, 30 Agustus 2022"
+    }
+  ],
+  "informasi-khusus": [
+    {
+      "id": 1,
+      "title": "Sekretariat DPRD Jawa Barat Terima Kunjungan SMA Kristen 1 Bina Bakti Bandung",
+      "slug": "informasi-khusus1",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/bina-bakti.jpg",
+      "description": "Kunjungan SMA Kristen 1 Bina Bakti Bandung diterima oleh Kepala Bagian (Kabag) Persidangan dan Perundang-Undangan, Dra Iis Rostiasih M.Si, dan Kasubag Humas Protokol dan Publikasi DPRD Jabar, M Hafidz SH Sekretariat DPRD Jawa Barat di ruang Badan Anggaran (Banggar) Dewan Perwakilan Rakyat Daerah Jabar. Dra Iis Rostiasih M.Si mengapresiasi kunjungan SMA Kristen 1 Bina Bakti Bandung yang ingin mengetahui tugas dan fungsi Sekretariat serta 120 anggota DPRD Jawa Barat, termasuk soal kinerja anggota DPRD Jabar. Pihaknya pun memuji antusiasme siswa-siswi SMA Kristen 1 Bina Bakti Bandung yang tak hentinya terus bertanya soal tugas, fungsi Sekretariat dan 120 anggota DPRD Jawa Barat serta terkait isu-isu terkini yang berkaitan dengan kerja-kerja anggota DPRD Jabar. “Alhamdulilah siswa-siswi SMA Kristen 1 Bina Bakti Bandung sangat antusias saat saya menjelaskan soal tugas dan fungsi Sekretariat dan 120 anggota DPRD Jawa Barat. Saya sangat mengapresiasinya, mereka punya keinginantahuan tinggi wawasan lembaga Sekretariat DPRD Jawa Barat, dan kedewananan,” tutur Iis Rostiasih, Bandung, Kamis (6/4/2023). Iis Rostiasih berharap kunjungan kerja dari sekolah tak berhenti hanya SMA Kristen 1 Bina Bakti Bandung. Tetapi, banyak sekolah lain yang melakukan kunjungan kerja ke Sekretariat DPRD Jabar. Dengan begitu, banyak siswa-siswi atau anak-anak muda yang mengetahui tugas dan fungsi Sekretariat dan 120 anggota DPRD Jawa Barat. Sehingga mereka bisa ikut memantau hasil kerja dan kebijakan DPRD Jawa Barat. Sementara Kepala Sekolah SMA Kristen 1 Bina Bakti Bandung, Agus Sugianto, S.Pd mengaku senang atas sambutan dan penjelasan merinci soal kedewanan dan DPRD Jawa Barat sebagai lembaga. Ia berharap setelah kunjungan tersebut semua siswa-siswi SMA Kristen 1 Bina Bakti Bandung  bisa memahami tugas dan fungsi termasuk wewenang para anggota DPRD Jawa Barat. Termasuk memahami kinerja dan cara menyampaikan aspirasi atau keluhan masyarakat kepada anggota DPRD Jawa Barat. “Harapannya, tentu kami sebagai pendidik berharap agar siswa-siswi paham atas maksud dan tujuan kami ke Sekretariat DPRD Jabar,”. “Kami juga sangat senang sekali dengan antusiasme siswa-siswi, dan sangat mengapresiasi penjelasan merinci dari Ibu Iis Rostiasih,”. Untuk diketahui, selama kunjungan Iis Rostiasih menjelaskan banyak hal, satu diantaranya terkait lembaga Sekretariat DPRD Jawa Barat yang bertugas memfasilitasi 120 anggota DPRD Jabar. Membahas juga soal dasar hukum lembaga DPRD Jabar. Termasuk membahas soal kedudukan Pemprov Jawa Barat dengan anggota DPRD Jabar, dan pembahasan soal tugas dan fungsi serta hasil kerja 120 anggota DPRD Jabar*",
+      "date": "Kamis, 6 April 2023"
+    },
+    {
+      "id": 2,
+      "title": "[Trivia] Hari Film Nasional",
+      "slug": "informasi-khusus2",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/hari-film.jpg",
+      "description": "Film merupakan salah satu media hiburan yang paling digemari oleh seluruh masyarakat. Selain sebagai media hiburan, film juga dapat menambah wawasan dan pengetahuan bagi penonton, karena dalam setiap film pasti mengandung makna tertentu. Oleh karena itu sebagai bentuk apresiasi serta menghargai karya karya film di Indonesia, setiap tanggal 30 Maret merayakan Hari Film Nasional. Dewan Film Nasional Bersama Organisasi Perfilman melakukan konferensi dan menetapkan tanggal 30 Maret sebagai Hari Film Nasional pada tanggal 11 Oktober 1962. Lewat Keputusan Presiden Nomor 25 Tahun 1999, BJ Habibie akhirnya menetapkan Hari Film Nasional pada tanggal 30 Maret seperti apa yang telah disepakati sebelumnya. Peringatan Hari Film Nasional tidak terlepas dari peranan Bapak Perfilman Indonesia yaitu Usmar Ismail, yang dalam perjalanan karirnya telah membuat lebih dari 30 karya film. Sebab itulah Hari Film Nasional ditetapkan pada tanggal 30 Maret karena pada saat itu adalah hari pertama pengambilan film Darah dan Doa karya beliau yang rilis pada tahun 1950. Di Indonesia pertunjukan film pertama digelar di Tanah Abang pada 5 Desesmber 1900, dengan tema film dokumenter yang menceritakan perjalanan Ratu dan Raja Belanda di Den Haag. Pada masa itu film disebut gambar idoep. Pada tahun 1926 film lokal pertama kali diproduksi dengan judul “Loetoeng Kasaroeng” yang diproduksi oleh NV Java Film Company. Kemudian film kedua berjudul “Eulis Atjih”. Setelah film kedua ini, kemudian bermunculan perusahaan film lainnya seperti Halimun Film Bandung yang membuat Lily van Java dan Central Java Film (Semarang) yang memproduksi Setangan Berlumur Darah. Djamaludin Malik berupaya untuk lebih mempopulerkan film Indonesia dengan mendorong mengadakan Festival Film Indonesia (FFI) I pada tanggal 30 Maret – 5 April 1955, (FFI) I pada tanggal 30 Maret – 5 April 1955. Yang menjadi film terbaik pada festival tersebut adalah film “Jam Malam” karya Usmar Ismail. Film tersebut juga mewakili Indonesia dalam Festival Film Asia II di Singapura. Film “Jam Malam” ini dianggap karya terbaik Usmar Ismail, didalamnya menyampaikan kritik sosial yang sangat tajam terkait para pejuang setelah kemerdekaan. Namun pada pertengahan ‘90-an, film-film nasional yang tengah menghadapi krisis ekonomi harus bersaing keras dengan maraknya sinetron di televisi-televisi swasta. Apalagi dengan kehadiran Laser Disc, VCD dan DVD yang makin memudahkan masyarakat untuk menikmati film impor.",
+      "date": "Kamis, 30 Maret 2023"
+    },
+    {
+      "id": 3,
+      "title": "Sambut Ramadhan 1444 H Setwan Jabar Gelar Bimbingan Mental Bagi ASN dan Non ASN",
+      "slug": "informasi-khusus3",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/bimbingan-mental-ramadhan-1444-h.jpg",
+      "description": "Kota Bandung -- Sekretariat DPRD Provinsi Jawa Barat gelar kegiatan pembinaan mental untuk staf ASN dan Non ASN di Lingkungan Sekretariat DPRD Provinsi Jawa Barat dalam rangka menyambut bulan suci ramadhan 1444 H bertempat  di Lobby Ruang Rapat Sidang Paripurna Gedung DPRD Provinsi Jawa Barat. Selasa, (21/03/23)",
+      "date": "Selasa, 21 Maret 2023"
+    },
+    {
+      "id": 4,
+      "title": "Sekretariat DPRD Jawa Barat Mendapatkan Penghargaan Sebagai Wajib Pajak dengan Kontribusi Pembayaran Pajak Terbesar",
+      "slug": "informasi-khusus4",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/ida-whd.jpg",
+      "description": "KOTA BANDUNG - Sekretariat DPRD Jawa Barat mendapatkan penghargaan dari Direktorat Jenderal Pajak (DJP) Jabar I sebagai Wajib Pajak dengan Kontribusi Pembayaran Pajak Terbesar 2022. Penghargaan tersebut diberikan DJP Jabar I kepada Sekretariat DPRD Jawa Barat dalam acara Tax Gathering 2023 di The Trans Luxury Hotel, Jalan Gatot Subrono No. 289, Kota Bandung, Senin (20/3/2023) malam. Sekretaris DPRD Jawa Barat Ida Wahida Hidayati menuturkan, suatu kebanggaan bagi Sekretariat DPRD Jawa Barat mendapatkan penghargaan sebagai Wajib Pajak dengan Kontribusi Pembayaran Pajak Terbesar Tahun 2022. Sekretariat DPRD Jawa Barat menjadi salah satu dari 4 instansi pemerintah di lingkungan Pemerintah Provinsi Jabar yang mendapatkan penghargaan tersebut sebagai Wajib Pajak dengan Kontribusi Pembayaran Pajak Terbesar Tahun 2022. “Iya, tadi malam kita diundang oleh DJP Jabar I sebagai penerima penghargaan sebagai Wajib Pajak dengan Kontribusi Pembayaran Pajak Terbesar Tahun 2022. Penghargaan tersebut diberikan saat acara Tax Gathering 2023 yang diselenggarakan DJP Jabar I,” tutur Ida Wahida Hidayati, Bandung, Selasa (21/3/2023). “Kategori dalam acara Tax Gathering 2023 banyak, ada dari perusahaan, instansi pemerintah dan lain sebagainya. Kita (Sekretariat DPRD Jawa Barat) masuk dalam penghargaan kategori instansi pemerintah,” tambahnya. Menurut Ida Wahida Hidayati, penghargaan dari DJP Pajak I tersebut merupakan penghargaan perdana yang dilaksanakan oleh Direktorat Jenderal Pajak Jabar I, dan penghargaan pertama pula bagi Sekretariat DPRD Jawa Barat terkait pajak. Apresiasi atau penghargaan dari Direktorat Jenderal Pajak Jabar I tersebut tentu akan memotivasi Sekretariat DPRD Jawa Barat agar terus taat pajak. Baik itu pajak penghasilan maupun pajak lainnya yang menjadi kewajiban bagi wajib pajak. “Tentunya penghargaan ini akan memotivasi kami, agar kami bisa taat pajak, dan menjadi contoh bagi masyarakat untuk taat pajak. Apalagi sebagai instansi pemerintah, dan seperti saya sebagai birokrat yang tentu harus taat bayar pajak,” kata dia. Sebab, dari pajaklah pembangunan di Jawa Barat bisa terlaksana. Melalui pajak, beragam pembangunan infrastruktur bisa terwujud. Seperti pembangunan jembatan, jalan, bandara hingga pelabuhan dan sektor lainnya yang pembiayaannya bersumber dari pajak. “Orang bijak itu harus taat pajak, karena pajak itu untuk pembangunan di  Indonesia. Jangan ada pemikiran karena ada kasus terkait pajak yang saat ini tengah disoroti publik. Lantas membuat kita menjadi taat pajak, justru kita,  masyarakat dan para birokrat terutama instansi pemerintah harus taat membayar pajak,” tegas dia. Untuk diketahui, selain Sekretariat DPRD Jawa Barat yang mendapatkan penghargaan sebagai Wajib Pajak dengan Kontribusi Pembayaran Pajak Terbesar Tahun 2022. Terdapat 4 OPD lainnya yang mendapatkan penghargaan serupa yakni, Bapenda Jabar, Dinas Bina Marga dan Penataan Ruang (BMPR) Jawa Barat dan Dinas Pendidikan Jawa Barat, termasuk Gubernur Jawa Barat Ridwan Kamil yang mendapatkan penghargaan sebagai Wajib Pajak yang Taat Pajak. *** ",
+      "date": "Senin, 20 Maret 2023"
+    },
+    {
+      "id": 5,
+      "title": "[Trivia] Hari Perawat Nasional 2023 “Gapai Sejahtera dengan Profesionalise”",
+      "slug": "informasi-khusus5",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/img-7455.jpg",
+      "description": "Perawat miliki peran yang besar dalam bidang kesehatan, karena profesi tersebut bersangkutan dengan nyawa seseorang, maka dari itu setiap tanggal 17 Maret diperingati sebagai Hari Perawat Nasional, sebagai momentum pengingat dan bentuk penghargaan atas kontribusi dan jasa para perawat bagi kesehatan masyarakat di seluruh dunia. Adapun tema Hari Perawat Nasional 2023 adalah 'Gapai Sejahtera dengan Profesionalisme'. Dengan hadirnya tema tersebut, maka diharapkan perawat dapat senantiasa menjaga profesionalitas diwaktu dan tempat manapun mengabdi. Peringatan ini tidak terlepas dari hari didirikannya Persatuan Perawat Nasional Indonesia (PPNI) pada tanggal 17 Maret 1974. Organisasi ini merupakan hasil gabungan dari beberapa organisasi seperti Perkumpulan Kaum Verplegerfster Indonesia (PKVI), Persatuan Djuru Kesehatan Indonesia (PDKI). Ada pula Persatuan Perawat Indonesia (PPI), Ikatan Perawat Indonesia (IPI). Organisasi-organisasi perawat saat itu mengadakan pertemuan yang dihadiri oleh IPI, PPI dam PDKI. Dihadiri pula Ojo Radiat, HB. Barnas dan Drs. Maskoed Soerjasumantri sebagai pimpinan sidang. Mereka wajib melakukan fusi organisasi dan objek diri dalam satu wadah organisasi yang saat itu bernama Persatuan Perawat Nasional Indonesia (PPNI). Pengabungan atau fusi organisasi perawat tersebut dilakukan di Ruang Demonstrasi Jalan Prof. Eykman No. 34, Bandung, Jawa Barat. Sejak tanggal itu, yaitu 17 Maret 1974 maka disetujui dan diumumkan pernyataan bersama mengenai terbentuknya Persatuan Perawat Nasional Indonesia (PPNI). Serta, membentuk suatu kepanitian untuk mempersiapkan kongres pertama yang dilangsungkan pada tahun 1976. Organisasi PPNI hadir menjadi satu satunya organisasi profesi yang mewadahi seluruh perawat di Indonesia, selain itu PPNI juga menjadi tempat untuk pembuatan kebijakan, pemersatu, pembina, pengembang, dan pengawasan di Indonesia (AD-ART PPNI, 2015). PPNI berkomitmen untuk memberikan perlindungan bagi masyarakat dan profesi dengan menyusun RUU yang saat ini terus diperjuangkan untuk disahkan menjadi undang-undang.",
+      "date": "Jumat, 17 Maret 2023"
+    },
+    {
+      "id": 6,
+      "title": "Menerima Kunjungan Kerja BK DPRD Kabupaten Bogor",
+      "slug": "informasi-khusus6",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/set-dprd-menerima-kunker-bk-kab-bogor.jpg",
+      "description": "Kota Bandung -- Sekretariat DPRD Provinsi Jawa Barat Bagian Persidangan dan PUU menerima tamu dari Pimpinan dan Anggota Badan Kehormatan DPRD Kabupaten Bogor berkaitan dengan Tugas Pokok dan Fungsi dari Badan Kehormatan. Di terima Oleh Ahmad Irfan sebagai Pejabat Fungsional Beserta Staff Bagian Persidangan dan PUU Bertempat di Ruangan Badan Kehormatan DPRD Provinsi Jawa Barat. Kota Bandung. Rabu, (15/03/2023)",
+      "date": "Rabu, 15 Maret 2023"
+    }
+  ],
+  "berita": [
+    {
+      "id": 1,
+      "slug": "berita1",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/img-3724.jpg",
+      "title": "Oden Minta Pemerintah Bantu Pesantren Yang Terdampak Gempa di Kab. Cianjur.",
+      "description": "Kab. Cianjur --- Anggota DPRD Provinsi Jawa Barat H. Oden Haryadi meminta Pemerintah Provinsi Jawa Barat memberikan perhatian serius kepada pesantren yang terdampak gempa di Kab. Cianjur. Pasalnya, hingga hari ini masih banyak pesantren yang tidak berjalan karena terdampak gempa berkekuatan magnitudo 5,6 Mw tersebut. 'Adanya gempa bumi di Kabupaten Cianjur beberapa waktu yang lalu, banyak pondok pesantren yang tidak berjalan sampai saat ini', ujar Oden disela penyebarluasan Peraturan Daerah (Perda) No. 1 Tahun 2021 tentang Fasilitasi Penyelenggaraan Pesantren di Desa Cipendawa Kec. Pacet Kab. Cianjur, Selasa (4/4/23). Oden menambahkan tidak berjalannya banyak pesantren yang tidak berjalan karena sarana dan prasarana yang rusak berat akibat gempa. Sesuai amanah Perda tentang Fasilitasi Penyelenggaraan Pesantren tersebut, Oden berharap Pemerintah Provinsi Jawa Barat bisa segera membangun kembali sarana dan prasarana Pesantren yang rusak parah agar proses belajar di pesantren segera dapat berjalan normal. 'Sesuai perda ini harus bisa memfasilitasi juga (perbaikan pesantren), karena dengan gempa ini banyak pondok pesantren yang tidak berjalan', jelas Oden. Oden juga berharap adanya Perda No. 1 Tahun 2021 tentang Fasilitasi Penyelenggaraan Pesantren ini, pemerintah bisa memfasilitasi perkembangan pesantren dari pembinaan, pemberdayaan serta sarana dan prasarana dapat lebih terperhatikan.",
+      "date": "Selasa, 4 April 2023"
+    },
+    {
+      "id": 2,
+      "slug": "berita2",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/paripurna-achmad-ruyat-pemb-pansus-lkpj-2022.jpg",
+      "title": "DPRD Jabar Gelar Rapat Paripurna Pembentukan Pansus LKPJ Gubernur Akhir Tahun Anggaran 2022",
+      "description": "Kota Bandung -- Dewan Perwakilan Rakyat Daerah (DPRD) Provinsi Jawa Barat gelar Rapat Paripurna dengan agenda Penyampaian Laporan Keterangan Pertangunggjawaban (LKPJ) Gubernur Akhir Tahun Anggaran 2022 dan pembentukan Panitia Khusus (Pansus), di Ruang Paripurna, Senin (27/03/2023). Rapat Paripurna dipimpin  langsung oleh Wakil Ketua DPRD Jabar Achmad Ru'yat serta dihadiri langsung oleh Gubernur dan Wakil Gubernur Jawa Barat. ",
+      "date": "Senin, 27 Maret 2023"
+    },
+    {
+      "id": 3,
+      "slug": "berita3",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/penyebarluasan-perda-didi.jpg",
+      "title": "Pekerja Migran Asal Jawa Barat Perlu Mendapatkan Perlindungan",
+      "description": "Kab. Ciamis -- Anggota DPRD Provinsi Jawa Barat Daerah Pemilihan (Dapil) XIII (Kabupaten Ciamis, Kota Banjar, Kabupaten Kuningan, dan Kabupaten Pangandaran) H. Didi Sukardi menyebut, tenaga migran perlu mendapatkan perlindungan dari pemerintah. Sebab tak jarang para tenaga migran tersebut dimanfaatkan oleh pihak-pihak yang tidak bertanggungjawab yang mengakibatkan kerugian. Sehingga pemerintah harus memberikan perlindungan kepada para tenaga kerja migran bahkan dari sebelum mereka diberangkatkan. Hal tersebut dikatakan Didi Sukardi disela pelaksanaan Penyebarluasan Peraturan Daerah (Perda) Nomor 2 Tahun 2021 tentang Penyelenggaraan Perlindungan Pekerja Migran Indonesia asal Daerah Provinsi Jawa Barat bertempat di di Desa Sukamaju, Kecamatan Baregbeg Kabupaten Ciamis. Senin, (20/03/2023).",
+      "date": "Senin, 20 Maret 2023"
+    },
+    {
+      "id": 4,
+      "slug": "berita4",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/penyebarluasan-perda-asep-suherman.jpg",
+      "title": "Tingginya Permasalahan Pekerja Migran Asal Cianjur Jadi Perhatian DPRD Jabar",
+      "description": "Kab. Cianjur -- Tingginya Permasalahan Pekerja Migran Indonesia asal Kabupaten Cianjur, Jawa Barat menjadi perhatian Anggota DPRD Provinsi Jawa Barat, H. Asep Suherman. Asep mengatakan pada pertengahan 2022 lalu, Kabupaten Cianjur menempati urutan kedua permasalahan Pekerja Migran Indonesia yang bekerja di luar negeri setelah Kabupaten Karawang. 'Kantong Pekerja Migran itu kan Indramayu, Karawang, Cianjur, dan permasalahan pekerja migran asal Cianjur ini cukup tinggi setelah Karawang', ujar Asep disela penyebarluasan Peraturan Daerah Provinsi Jawa Barat No. 2 Tahun 2021 tentang Penyelenggaraan Perlindungan Pekerja Migran Indonesia asal daerah Provinsi Jawa Barat kepada Masyarakat Cianjur, (20/03/23). Asep menyebutkan banyak persoalan Para pekerja Migran seperti halnya hilang kontak, gaji tak dibayarkan, sakit, disiksa majikan, sulit pulang dan lainnya. Padahal menurut Asep, negara berutang banyak kepada para Pekerja Migran Indonesia sebagai pahlawan devisa yang telah menyumbangkan remitansi sebesar triliunan rupiah setiap tahunnya.",
+      "date": "Senin, 20 Maret 2023"
+    },
+    {
+      "id": 5,
+      "slug": "berita5",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/sidkon-penyebarluasan-perda.jpg",
+      "title": "Kemampuan Pekerja Migran Indonesia Harus Terus Ditingkatkan",
+      "description": "Kab. Indramayu -- Keterampilan dan kemampuan Pekerja Migran Indonesia harus ditingkatkan, hal ini sebagai modal untuk bersaing dengan para pekerja dari negara lain. Hal ini disampakan Anggota DPRD Provinsi Jawa Barat Dapil XII( Kabupaten/Kota Cirebon dan Kabupaten Indramayu) H. Muhamad Sidkon DJ saat melaksanakan kegiatan Penyebarluasan Peraturan Daerah Nomor 2 Tahun 2021  tentang Penyelenggaraan Perlindungan Pekerja Migran Indonesia asal Daerah Provinsi Jawa Barat di Samalona Coffee Story di Jl. Pasar Baru, Karangmalang, Kabupaten Indramayu, Senin (20/03/2023). 'Skill pekerja migran indonesia harus ditungkatkan dan hal-hal lainnya harus ditambah karena mereka bekerja di luar Indonesia di luar negeri sehingga skill mereka harus lebih dibandingkan dengan yang lainnya , dibandingkan dengan negara lainnya ' ujar  Sidkon. Sidkon menambahkan, Kabupaten Indramayu sebagai salah satu daerah pengirim pekerja migran terbesar di Indonesia. Sehingga melaui Perda Nomor 2 Tahun 2021  tentang Penyelenggaraan Perlindungan Pekerja Migran Indonesia asal Daerah Provinsi Jawa Barat pemerintah dapat meberikan sejumlah persiapan bagi para pekerja migran.",
+      "date": "Senin, 20 Maret 2023"
+    },
+    {
+      "id": 6,
+      "slug": "berita6",
+      "image": "https://dprd.jabarprov.go.id/img/2023/1500/viman-perda-no-2.jpg",
+      "title": "Melalui Perda, Pemerintah Tunjukan Keberpihakan Bagi Pekerja Migran Asal Jawa Barat",
+      "description": "Kota Tasikmalaya -- Perda Penyelenggaran Perlindungan Pekerja Migran Indonesia Asal Daerah Provinsi Jawa Barat merupkan bentuk kepedulian Pemerintah Provinsi Jawa Barat dalam melindungi pekerja migran Indonesia khususnya asal daerah Provinsi Jawa Barat yang merupakan pahlawan devisa negara. Hal tersebut dikatakan Anggota DPRD Provinsi Jawa Barat Daerah Pemilihan XV (Kabupaten & Kota Tasikmalaya) Viman Alfarizi saat melaksanakan penyebarluasan Perda Provinsi Jawa Barat Nomor 2 Tahun 2021 tentang Penyelenggaran Perlindungan Pekerja Migran Indonesia Asal Daerah Provinsi Jawa Barat, Senin (20/3/2023). 'Perda ini merupakan bentuk kepedulian Pemprov Jabar dalam melindungi pekerja migran asal Indonesia apalagi mereka merupakan pahlawan devisa negara'ucapnya. Viman menambahkan, pihaknya memandang perlu adanya keberpihakan kepada para pekerja migran karena para pekerja ini telah kontribusi yang telah diberikan oleh para pekerja migran  kepada negara",
+      "date": "Senin, 20 Maret 2023"
     }
   ]
 }
